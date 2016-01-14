@@ -24,6 +24,8 @@ Currently, our active public repositories include:
   - [Circulation Manager](https://github.com/NYPL-Simplified/circulation)
   - [Open Access Content Server](https://github.com/NYPL-Simplified/content-server)
   - [Metadata Wrangler](https://github.com/NYPL-Simplified/metadata-wrangler)
+  - [Server Core](https://github.com/NYPL/Simplified-server-core)
+  - [Data Store](https://github.com/NYPL-Simplified/data)
 
 
 ## Get Connected, Stay Informed
