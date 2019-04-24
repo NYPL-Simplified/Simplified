@@ -34,8 +34,7 @@ There are lots of ways to get involved with Library Simplified. Before you start
 1. Review our [Product Backlog](http://www.librarysimplified.org/productbacklog.html).
 2. Check out our [roadmap issues](https://github.com/nypl-simplified/simplified/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aroadmap+) and [overall goals](https://github.com/nypl-simplified/simplified/milestones).
 3. Take a look at the issues in the specific Library Simplified repository that you're interested in working on.
-4. Watch [our Waffle board](https://waffle.io/nypl-simplified/simplified) to see what we're working on now and review unassigned issues in our backlog.
-5. **Let us know what you're going to work on -- *before* you spend a lot of time on it.** Assign an issue to yourself on GitHub and/or reach out via email: info@librarysimplified.org.
+4. **Let us know what you're going to work on -- *before* you spend a lot of time on it.** Assign an issue to yourself on GitHub and/or reach out via email: info@librarysimplified.org.
 
 ### Installation
 
