@@ -1,3 +1,5 @@
+> The SimplyE app will be discontinued in August 2025 and the resources shared here will be retired.
+
 # Library Simplified
 
 This is the meta-repository for the Library Simplified project. It contains big-picture issues that cross repository boundaries, the project's wiki, and related documents.
